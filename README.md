@@ -72,7 +72,7 @@
             <label for="tickets">Số Lượng Vé</label>
             <input type="number" id="tickets" name="tickets" placeholder="Nhập số lượng vé" min="1" required>
 
-            <button class="btn" onclick="window.location.href='cauvang.html'">
+            <button class="btn" onclick="window.location.href='https://trachungphu.github.io/mainwebgroup3.github.io/'">
                 Đặt vé
             </button>
         </form>
